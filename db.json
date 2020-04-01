@@ -1,8 +1,32 @@
-<div>
-<p>BTPC-XNPB-28RN-HV38-HMTF</p>
-<p>F7GV-X3RN-FGCA-MJVN-J3U3</p>
-<p>GFJ3-XDNC-5TM8-RDHS-KVWN</p>
-<p>BTPC-XNPB-28RN-HV38-HMTF</p>
-<p>F7GV-X3RN-FGCA-MJVN-J3U3</p>
-<p>GFJ3-XDNC-5TM8-RDHS-KVWN</p>
-</div>
+{
+    "data": [
+    {
+      "id": 1,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+    {
+      "id": 2,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+    {
+      "id": 3,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+    {
+      "id": 3,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+    {
+      "id": 4,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+    {
+      "id": 5,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+    {
+      "id": 6,
+      "title": "BTPC-XNPB-28RN-HV38-HMTF"
+    },
+  ]
+}

@@ -1,29 +1,26 @@
-
-{
-  "items":[
+"items":[
     {
       "id": 1,
-      "text1": "Post 1"
+      "text": "Post 1"
     },
     {
       "id": 2,
-      "text2": "Post 2"
+      "text": "Post 2"
     },
     {
       "id": 3,
-      "text3": "Post 3"
+      "text": "Post 3"
     },
     {
       "id": 4,
-      "text4": "Post 4"
+      "text": "Post 4"
     },
     {
       "id": 5,
-      "text5": "Post 5"
+      "text": "Post 5"
     },
     {
       "id": 6,
-      "text6": "Post 6"
+      "text": "Post 6"
     }
-  ]
-}
+ ]
